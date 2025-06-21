@@ -21,7 +21,7 @@ const Hero = () => {
         designer from india with a proven track record of <br className="hidden md:block" /> delivering
         impactful, memorable design solutions.
       </p>
-      <div className="mt-12 flex flex-row md:gap-14 items-center justify-between px-6 md:justify-self-center">
+      <div className="mt-12 flex flex-row md:gap-14 items-center justify-between px-6 md:justify-self-center max-w-[500px] mx-auto">
         <div className="flex flex-col justify-center items-center">
           <svg
             width="80"
@@ -71,7 +71,7 @@ const Hero = () => {
           <p className="text-[#787878] mt-3">magicpin</p>
         </div>
       </div>
-      <Image src="/separator.png" alt="separator" className="w-[168px] mt-20 flex justify-self-center" width={1000} height={1000} />
+      <Image src="/separator.png" alt="separator" className="w-[168px] mt-20 flex justify-self-center mx-auto" width={1000} height={1000} />
     </div>
   );
 };
