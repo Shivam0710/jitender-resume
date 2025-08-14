@@ -17,9 +17,7 @@ const Hero = () => {
         <span>10 years of experience</span>
       </h1>
       <p className="px-6 text-[#787878] text-center text-[20px] mt-8">
-        Hi! I&apos;am <span className="text-[#1A1A1A]"> Jitender</span>, a product
-        designer from india with a proven track record of <br className="hidden md:block" /> delivering
-        impactful, memorable design solutions.
+        Hi! I&apos;m <span className="text-[#1A1A1A]"> Jitender</span>, a product designer from India, crafting impactful and memorable solutions that truly connect with users.
       </p>
       <div className="mt-12 flex flex-row md:gap-14 items-center justify-between px-6 md:justify-self-center max-w-[500px] mx-auto">
         <div className="flex flex-col justify-center items-center">
