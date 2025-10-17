@@ -60,14 +60,14 @@ const Experiences = () => {
           </div>
         </div>
         <Image
-          src="/drivefit-exp.png"
+          src="/drivefitt-experience.png"
           width={1000}
           height={1000}
-          alt="Dribble experience"
+          alt="Drivefitt - website design"
           className="w-full h-full object-cover"
         />
         <p className="text-center text-[#787878] text-xl font-medium group-hover:underline transition-all duration-300">
-          Dribbble short - Concept works
+          Drivefitt - website design
         </p>
       </Link>
       </div>
